@@ -1,0 +1,9 @@
+'''
+2进制0b
+8进制0o
+16进制0x
+'''
+num=0b111
+num1=0o111
+num2=0x111
+print(num,num1,num2,sep='\n')
