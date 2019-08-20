@@ -20,7 +20,7 @@ PARAMS_VARIETY_LIST = {
     # 'goods_brand': '',  # 商品品种ID
 }
 PARAMS_GOOD_PROP = {
-    # 必填字段123
+    # 必填字段
     'prop_id': constants.PROP_ID,  # 属性ID
     # 非必填字段
     # 'key': '',  # 搜索关键字 模糊匹配code或名称
