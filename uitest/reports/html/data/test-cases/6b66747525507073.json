@@ -1,0 +1,104 @@
+{
+  "uid" : "6b66747525507073",
+  "name" : "TestOptometre.test_delete_optometry_record",
+  "fullName" : "testcase.optometry.sale_management.test_optometre_sales.TestOptometre.test_delete_optometry_record",
+  "historyId" : "dcf5c887ddf00e437b3a279216cc7cba",
+  "time" : {
+    "start" : 1573637833428,
+    "stop" : 1573637836543,
+    "duration" : 3115
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "删除验光记录",
+      "time" : {
+        "start" : 1573637833429,
+        "stop" : 1573637836543,
+        "duration" : 3114
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "32bc5af05cbbdefb",
+      "name" : "Captured log call",
+      "source" : "32bc5af05cbbdefb.txt",
+      "type" : "text/plain",
+      "size" : 1096
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "视光运营"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "QWJ77"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "视光销售"
+  }, {
+    "name" : "testId",
+    "value" : "删除验光记录"
+  }, {
+    "name" : "thread",
+    "value" : "163524-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase.optometry.sale_management.test_optometre_sales"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.optometry.sale_management.test_optometre_sales"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestOptometre.test_delete_optometry_record"
+  }, {
+    "name" : "package",
+    "value" : "testcase.optometry.sale_management.test_optometre_sales"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "删除验光记录",
+    "url" : "删除验光记录",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b66747525507073.json",
+  "parameterValues" : [ ]
+}

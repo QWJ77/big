@@ -1,0 +1,22 @@
+[ {
+  "values" : [ "QWJ77" ],
+  "name" : "node"
+}, {
+  "values" : [ "uname_result(system='Windows', node='QWJ77', release='10', version='10.0.18362', machine='AMD64', processor='Intel64 Family 6 Model 142 Stepping 11, GenuineIntel')" ],
+  "name" : "uname"
+}, {
+  "values" : [ "AMD64" ],
+  "name" : "machine"
+}, {
+  "values" : [ "Intel64 Family 6 Model 142 Stepping 11, GenuineIntel" ],
+  "name" : "processor"
+}, {
+  "values" : [ "10.0.18362" ],
+  "name" : "version"
+}, {
+  "values" : [ "Windows-10-10.0.18362-SP0" ],
+  "name" : "platform"
+}, {
+  "values" : [ "('64bit', 'WindowsPE')" ],
+  "name" : "architecture"
+} ]

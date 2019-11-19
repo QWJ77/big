@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Exception: 点击元素('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')失败",
+      "children" : [ {
+        "name" : "TestOptometre.test_draw_a_bill",
+        "uid" : "e47b1beb935e86ea",
+        "parentUid" : "00dd70b04b26221157dc64dd5da9e1a3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1573637836544,
+          "stop" : 1573637864047,
+          "duration" : 27503
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "00dd70b04b26221157dc64dd5da9e1a3"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

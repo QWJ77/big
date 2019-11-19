@@ -1,0 +1,60 @@
+{
+  "2248083d20a754ee4c598591ee0f08d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb4eba93c7c3d7b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573637802843,
+        "stop" : 1573637833428,
+        "duration" : 30585
+      }
+    } ]
+  },
+  "dcf5c887ddf00e437b3a279216cc7cba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b66747525507073",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573637833428,
+        "stop" : 1573637836543,
+        "duration" : 3115
+      }
+    } ]
+  },
+  "73d37fc3ff1ca49cc60722b61cdfd448" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e47b1beb935e86ea",
+      "status" : "failed",
+      "statusDetails" : "Exception: 点击元素('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')失败",
+      "time" : {
+        "start" : 1573637836544,
+        "stop" : 1573637864047,
+        "duration" : 27503
+      }
+    } ]
+  }
+}

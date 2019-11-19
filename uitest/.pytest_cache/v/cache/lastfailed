@@ -1,0 +1,5 @@
+{
+  "test_demo.py::TestDome::()::test_func": true,
+  "testcase/optometry/sale_management/test_optometre_sales.py::TestOptometre::()::test_draw_a_bill": true,
+  "testcase/optometry/sale_management/test_optometre_sales.py::TestPage::()::test_1": true
+}

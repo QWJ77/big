@@ -1,0 +1,5 @@
+[
+  "test_optometre_sales.py::TestOptometre::()::test_add_optometry_record",
+  "test_optometre_sales.py::TestOptometre::()::test_delete_optometry_record",
+  "test_optometre_sales.py::TestOptometre::()::test_draw_a_bill"
+]

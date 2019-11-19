@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase.optometry.sale_management.test_optometre_sales",
+    "children" : [ {
+      "name" : "TestOptometre.test_add_optometry_record",
+      "uid" : "eb4eba93c7c3d7b7",
+      "parentUid" : "cf96a6443d2c78d1f372a5a7398b9488",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573637802843,
+        "stop" : 1573637833428,
+        "duration" : 30585
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestOptometre.test_delete_optometry_record",
+      "uid" : "6b66747525507073",
+      "parentUid" : "cf96a6443d2c78d1f372a5a7398b9488",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573637833428,
+        "stop" : 1573637836543,
+        "duration" : 3115
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestOptometre.test_draw_a_bill",
+      "uid" : "e47b1beb935e86ea",
+      "parentUid" : "cf96a6443d2c78d1f372a5a7398b9488",
+      "status" : "failed",
+      "time" : {
+        "start" : 1573637836544,
+        "stop" : 1573637864047,
+        "duration" : 27503
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cf96a6443d2c78d1f372a5a7398b9488"
+  } ]
+}

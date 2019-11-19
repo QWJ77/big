@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "QWJ77",
+    "children" : [ {
+      "name" : "163524-MainThread",
+      "children" : [ {
+        "name" : "TestOptometre.test_draw_a_bill",
+        "uid" : "e47b1beb935e86ea",
+        "parentUid" : "2f43ea2c14e0eaa9f2e3a2b59938d1a2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1573637836544,
+          "stop" : 1573637864047,
+          "duration" : 27503
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestOptometre.test_add_optometry_record",
+        "uid" : "eb4eba93c7c3d7b7",
+        "parentUid" : "2f43ea2c14e0eaa9f2e3a2b59938d1a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573637802843,
+          "stop" : 1573637833428,
+          "duration" : 30585
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestOptometre.test_delete_optometry_record",
+        "uid" : "6b66747525507073",
+        "parentUid" : "2f43ea2c14e0eaa9f2e3a2b59938d1a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573637833428,
+          "stop" : 1573637836543,
+          "duration" : 3115
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f43ea2c14e0eaa9f2e3a2b59938d1a2"
+    } ],
+    "uid" : "51098f1b57050cff7ec2bd7998730c14"
+  } ]
+}

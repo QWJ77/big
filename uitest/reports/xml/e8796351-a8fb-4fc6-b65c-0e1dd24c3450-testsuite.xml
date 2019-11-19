@@ -1,0 +1,208 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1573637802843" stop="1573637864047">
+  <name>testcase.optometry.sale_management.test_optometre_sales</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1573637802843" status="passed" stop="1573637833428">
+      <name>TestOptometre.test_add_optometry_record</name>
+      <attachments>
+        <attachment source="65bc1340-5949-413f-b3a9-1ad7cc2c0d74-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="testId" value="新增验光记录"/>
+        <label name="story" value="视光销售"/>
+        <label name="feature" value="视光运营"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="163524-MainThread"/>
+        <label name="host" value="QWJ77"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1573637802844" status="passed" stop="1573637812130">
+          <name>初始化启动浏览器</name>
+          <title>初始化启动浏览器</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1573637812130" status="passed" stop="1573637833428">
+          <name>新增验光记录</name>
+          <title>新增验光记录</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1573637833428" status="passed" stop="1573637836543">
+      <name>TestOptometre.test_delete_optometry_record</name>
+      <attachments>
+        <attachment source="dc2c2301-ed8e-4f86-8abc-2d37857184a6-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="testId" value="删除验光记录"/>
+        <label name="story" value="视光销售"/>
+        <label name="feature" value="视光运营"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="163524-MainThread"/>
+        <label name="host" value="QWJ77"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1573637833429" status="passed" stop="1573637836543">
+          <name>删除验光记录</name>
+          <title>删除验光记录</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1573637836544" status="failed" stop="1573637864047">
+      <name>TestOptometre.test_draw_a_bill</name>
+      <failure>
+        <message>Exception: 点击元素('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')失败</message>
+        <stack-trace>self = &lt;pages.optometry.sale_management.optometre_sales_page.OptometreSalesPage object at 0x0000018307E83748&gt;
+locator = ('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')
+
+    def findElement(self, locator):
+        '''定位到元素，返回元素对象，没定位到，Timeout异常'''
+        if not isinstance(locator, tuple):
+            print('locator参数类型错误，必须传元祖类型：loc = ("id", "value1")')
+        else:
+            try:
+                '''判断某个元素是否被加到了dom树里，并不代表该元素一定可见，如果定位到就返回元素'''
+                self.logger.info("正在定位元素信息：定位方式开始-&gt;%s, value值-&gt;%s" % (locator[0], locator[1]))
+&gt;               ele = WebDriverWait(self.driver, self.timeout, self.t).until(EC.presence_of_element_located(locator))
+
+common\basePage.py:67: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="6bf5f077377777957c82a21ab53b4e85")&gt;
+method = &lt;selenium.webdriver.support.expected_conditions.presence_of_element_located object at 0x0000018307EE55F8&gt;
+message = ''
+
+    def until(self, method, message=''):
+        """Calls the method provided with the driver as an argument until the \
+            return value is not False."""
+        screen = None
+        stacktrace = None
+    
+        end_time = time.time() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.time() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message:
+
+C:\Users\86177\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py:80: TimeoutException
+
+During handling of the above exception, another exception occurred:
+
+self = &lt;pages.optometry.sale_management.optometre_sales_page.OptometreSalesPage object at 0x0000018307E83748&gt;
+locator = ('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')
+
+    def click(self, locator):
+        try:
+            # self.js_focus_element(locator)
+&gt;           ele = self.findElement(locator)
+
+common\basePage.py:104: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;pages.optometry.sale_management.optometre_sales_page.OptometreSalesPage object at 0x0000018307E83748&gt;
+locator = ('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')
+
+    def findElement(self, locator):
+        '''定位到元素，返回元素对象，没定位到，Timeout异常'''
+        if not isinstance(locator, tuple):
+            print('locator参数类型错误，必须传元祖类型：loc = ("id", "value1")')
+        else:
+            try:
+                '''判断某个元素是否被加到了dom树里，并不代表该元素一定可见，如果定位到就返回元素'''
+                self.logger.info("正在定位元素信息：定位方式开始-&gt;%s, value值-&gt;%s" % (locator[0], locator[1]))
+                ele = WebDriverWait(self.driver, self.timeout, self.t).until(EC.presence_of_element_located(locator))
+                self.logger.info("正在定位元素信息：定位方式结束-&gt;%s, value值-&gt;%s" % (locator[0], locator[1]))
+                return ele
+            except Exception as e:
+&gt;               self.logger.info("正在定位元素信息：定位方式结束 "+e)
+E               TypeError: can only concatenate str (not "TimeoutException") to str
+
+common\basePage.py:71: TypeError
+
+During handling of the above exception, another exception occurred:
+
+self = &lt;testcase.optometry.sale_management.test_optometre_sales.TestOptometre object at 0x0000018307EE5D30&gt;
+
+    @helper.testcase("进行销售开单")
+    def test_draw_a_bill(self):
+        with helper.step("进入视光销售--查询用户"):
+            self.op.query_users()
+        with helper.step("销售开单"):
+&gt;           self.op.draw_a_bill()
+
+testcase\optometry\sale_management\test_optometre_sales.py:49: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+pages\optometry\sale_management\optometre_sales_page.py:83: in draw_a_bill
+    self.click(self.print_sure)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;pages.optometry.sale_management.optometre_sales_page.OptometreSalesPage object at 0x0000018307E83748&gt;
+locator = ('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')
+
+    def click(self, locator):
+        try:
+            # self.js_focus_element(locator)
+            ele = self.findElement(locator)
+            ele.click()
+            self.logger.info("点击元素:"+str(locator))
+        except Exception:
+            self.get_screen()
+            self.logger.error("点击元素{}失败".format(locator))
+&gt;           raise Exception("点击元素{}失败".format(locator))
+E           Exception: 点击元素('xpath', '/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button')失败
+
+common\basePage.py:110: Exception</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="testId" value="进行销售开单"/>
+        <label name="story" value="视光销售"/>
+        <label name="feature" value="视光运营"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="163524-MainThread"/>
+        <label name="host" value="QWJ77"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1573637836545" status="passed" stop="1573637842729">
+          <name>进入视光销售--查询用户</name>
+          <title>进入视光销售--查询用户</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1573637842729" status="failed" stop="1573637863990">
+          <name>销售开单</name>
+          <title>销售开单</title>
+          <attachments>
+            <attachment source="e1953b4b-439f-499e-a407-03414c3d80a2-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1573637864047" status="passed" stop="1573637866204">
+          <name>关闭浏览器</name>
+          <title>关闭浏览器</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

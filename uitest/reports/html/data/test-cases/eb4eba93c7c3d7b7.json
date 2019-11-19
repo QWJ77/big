@@ -1,0 +1,119 @@
+{
+  "uid" : "eb4eba93c7c3d7b7",
+  "name" : "TestOptometre.test_add_optometry_record",
+  "fullName" : "testcase.optometry.sale_management.test_optometre_sales.TestOptometre.test_add_optometry_record",
+  "historyId" : "2248083d20a754ee4c598591ee0f08d5",
+  "time" : {
+    "start" : 1573637802843,
+    "stop" : 1573637833428,
+    "duration" : 30585
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "初始化启动浏览器",
+      "time" : {
+        "start" : 1573637802844,
+        "stop" : 1573637812130,
+        "duration" : 9286
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "新增验光记录",
+      "time" : {
+        "start" : 1573637812130,
+        "stop" : 1573637833428,
+        "duration" : 21298
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "dc20dc70b5165eb6",
+      "name" : "Captured log call",
+      "source" : "dc20dc70b5165eb6.txt",
+      "type" : "text/plain",
+      "size" : 1249
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "视光运营"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "QWJ77"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "视光销售"
+  }, {
+    "name" : "testId",
+    "value" : "新增验光记录"
+  }, {
+    "name" : "thread",
+    "value" : "163524-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase.optometry.sale_management.test_optometre_sales"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.optometry.sale_management.test_optometre_sales"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestOptometre.test_add_optometry_record"
+  }, {
+    "name" : "package",
+    "value" : "testcase.optometry.sale_management.test_optometre_sales"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "新增验光记录",
+    "url" : "新增验光记录",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb4eba93c7c3d7b7.json",
+  "parameterValues" : [ ]
+}

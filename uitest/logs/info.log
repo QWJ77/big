@@ -1,0 +1,878 @@
+2019-10-17 13:58:20 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 13:58:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 13:58:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 13:58:20 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 13:58:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->password
+2019-10-17 13:58:43 [root] [INFO] :20: 在此时进行截图！！
+2019-10-17 13:59:12 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 13:59:12 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 13:59:12 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 13:59:12 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 13:59:12 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->password
+2019-10-17 13:59:22 [root] [INFO] :20: 在此时进行截图！！
+2019-10-17 14:00:48 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:00:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:00:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:00:48 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:00:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:00:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:00:48 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:00:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:00:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:00:48 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:00:48 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:01:18 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:01:18 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:01:18 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:01:18 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:01:18 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:01:18 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:01:18 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:01:18 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:01:18 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:01:18 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:01:18 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:02:07 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:02:07 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:02:07 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:02:08 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:02:08 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:02:08 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:02:08 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:02:08 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:02:08 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:02:08 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:02:08 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:03:20 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:03:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:03:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:03:20 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:03:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:03:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:03:20 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:03:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:03:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:03:20 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:03:20 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:03:59 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:03:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:03:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:03:59 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:03:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:03:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:03:59 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:03:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:03:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:03:59 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:03:59 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:16:56 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:16:56 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:16:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:16:56 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:16:56 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:16:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:16:56 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:16:56 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:16:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:16:56 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:16:56 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:17:00 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:18:42 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:18:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:18:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:18:42 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:18:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:18:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:18:42 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:18:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:18:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:18:42 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:18:42 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:18:46 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:18:46 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:18:47 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 14:18:47 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:18:47 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:18:48 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 14:32:16 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:32:16 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:32:16 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:32:16 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:32:16 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:32:16 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:32:16 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:32:16 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:32:16 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:32:16 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:32:16 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:32:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:32:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:32:21 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 14:32:21 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:32:21 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:32:21 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 14:32:21 [root] [INFO] :20: 鼠标悬停在元素：('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input")
+2019-10-17 14:32:21 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:32:21 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:36:14 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:36:14 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:36:14 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:36:14 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:36:14 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:36:14 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:36:14 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:36:14 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:36:14 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:36:14 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:36:14 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:36:18 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:36:18 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:36:19 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 14:36:19 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:36:19 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:36:19 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 14:36:19 [root] [INFO] :20: 鼠标悬停在元素：('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input")
+2019-10-17 14:36:19 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:36:19 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:36:19 [root] [INFO] :20: 正在定位元素信息：定位方式开始->link_text, value值->测试
+2019-10-17 14:36:19 [root] [INFO] :20: 在此时进行截图！！
+2019-10-17 14:36:19 [root] [INFO] :20: 已成功生成截图，请确认！
+2019-10-17 14:36:57 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:36:57 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:36:57 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:36:57 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:36:57 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:36:57 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:36:57 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:36:57 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:36:57 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:36:58 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:36:58 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:37:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:37:19 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:37:19 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:37:19 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:37:20 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:37:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:37:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:37:20 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:37:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:37:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:37:20 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:37:20 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:37:24 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:37:24 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:37:25 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 14:37:25 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:37:25 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:37:25 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 14:37:25 [root] [INFO] :20: 鼠标悬停在元素：('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input")
+2019-10-17 14:37:25 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:37:25 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:37:25 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[2]/div[2]/div/div/div[1]/div/div[1]
+2019-10-17 14:37:25 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[2]/div[2]/div/div/div[1]/div/div[1]
+2019-10-17 14:37:25 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[2]/div[2]/div/div/div[1]/div/div[1]')
+2019-10-17 14:45:02 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:45:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:45:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:45:02 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:45:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:45:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:45:02 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:45:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:45:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:45:02 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:45:02 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:45:06 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:45:06 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:45:07 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 14:45:07 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:45:07 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:45:07 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 14:45:07 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:45:07 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:45:07 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 14:45:07 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:45:07 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:45:07 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 14:47:24 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 14:47:24 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 14:47:25 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 14:47:25 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 14:47:25 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 14:47:25 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 14:47:25 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 14:47:25 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:47:25 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 14:47:25 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 14:47:25 [root] [INFO] :20: 最大化窗口
+2019-10-17 14:47:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:47:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 14:47:30 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 14:47:30 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:47:30 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:47:30 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 14:47:30 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:47:30 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:47:30 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 14:47:31 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:47:31 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 14:47:31 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 15:17:58 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 15:17:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 15:17:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 15:17:58 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 15:17:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 15:17:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 15:17:58 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 15:17:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 15:17:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 15:17:58 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 15:17:58 [root] [INFO] :20: 最大化窗口
+2019-10-17 15:17:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 15:18:00 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 15:18:01 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 15:18:01 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:18:01 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:18:02 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 15:18:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:18:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:18:02 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 15:18:03 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:18:03 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:18:03 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 15:20:45 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 15:20:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 15:20:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 15:20:45 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 15:20:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 15:20:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 15:20:45 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 15:20:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 15:20:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 15:20:45 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 15:20:45 [root] [INFO] :20: 最大化窗口
+2019-10-17 15:20:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 15:20:47 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 15:20:49 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 15:20:49 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:20:49 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:20:49 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 15:20:49 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:20:49 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:20:49 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 15:20:50 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:20:50 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:20:50 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 15:20:52 [root] [INFO] :20: 退出浏览器
+2019-10-17 15:24:44 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-17 15:24:44 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-17 15:24:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-17 15:24:44 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-17 15:24:44 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-17 15:24:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-17 15:24:44 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-17 15:24:44 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 15:24:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-17 15:24:45 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-17 15:24:45 [root] [INFO] :20: 最大化窗口
+2019-10-17 15:24:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 15:24:46 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-17 15:24:46 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-17 15:24:46 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:24:47 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:24:47 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-17 15:24:47 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:24:47 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:24:47 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 15:24:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:24:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-17 15:24:48 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-17 15:24:50 [root] [INFO] :20: 退出浏览器
+2019-10-18 16:47:24 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-10-18 16:47:24 [root] [INFO] :20: 在此时进行截图！！
+2019-10-18 16:54:12 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-10-18 16:54:12 [root] [INFO] :20: 在此时进行截图！！
+2019-10-18 16:55:26 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-10-18 16:55:26 [root] [INFO] :20: 在此时进行截图！！
+2019-10-18 16:56:46 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-10-18 16:56:46 [root] [INFO] :20: 在此时进行截图！！
+2019-10-21 14:27:17 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 14:27:17 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 14:27:17 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 14:27:17 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 14:27:17 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 14:27:17 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 14:27:18 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 14:27:18 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 14:27:18 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 14:27:18 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 14:27:18 [root] [INFO] :20: 最大化窗口
+2019-10-21 14:27:18 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 14:27:19 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 14:27:20 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 14:27:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 14:27:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 14:27:20 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 14:27:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 14:27:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 14:27:20 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 14:27:21 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 14:27:21 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 14:27:21 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 14:27:23 [root] [INFO] :20: 退出浏览器
+2019-10-21 15:25:50 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 15:25:50 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 15:25:50 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 15:25:50 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 15:25:50 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 15:25:50 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 15:25:51 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 15:25:51 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:25:51 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:25:51 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 15:25:51 [root] [INFO] :20: 最大化窗口
+2019-10-21 15:25:51 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:25:52 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:25:53 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 15:25:53 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:25:53 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:25:53 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 15:25:53 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:25:53 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:25:53 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:25:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:25:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:25:54 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:25:57 [root] [INFO] :20: 退出浏览器
+2019-10-21 15:35:55 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 15:35:55 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 15:35:55 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 15:35:55 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 15:35:55 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 15:35:55 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 15:35:55 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 15:35:55 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:35:55 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:35:55 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 15:35:55 [root] [INFO] :20: 最大化窗口
+2019-10-21 15:35:55 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:35:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:35:59 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 15:35:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:35:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:36:00 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 15:36:00 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:36:00 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:36:00 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:36:01 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:36:01 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:36:01 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:36:04 [root] [INFO] :20: 退出浏览器
+2019-10-21 15:40:52 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 15:40:52 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 15:40:52 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 15:40:52 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 15:40:52 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 15:40:52 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 15:40:52 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 15:40:52 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:40:52 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:40:52 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 15:40:52 [root] [INFO] :20: 最大化窗口
+2019-10-21 15:40:52 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:40:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:40:55 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 15:40:55 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:40:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:40:56 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 15:40:56 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:40:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:40:56 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:40:57 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:40:57 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:40:57 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:40:59 [root] [INFO] :20: 退出浏览器
+2019-10-21 15:41:48 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 15:41:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 15:41:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 15:41:48 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 15:41:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 15:41:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 15:41:48 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 15:41:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:41:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:41:48 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 15:41:48 [root] [INFO] :20: 最大化窗口
+2019-10-21 15:41:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:41:49 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:41:50 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 15:41:50 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:41:51 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:41:51 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 15:41:51 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:41:51 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:41:51 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:41:52 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:41:52 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:41:52 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:41:54 [root] [INFO] :20: 退出浏览器
+2019-10-21 15:46:38 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 15:46:38 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 15:46:38 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 15:46:38 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 15:46:38 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 15:46:38 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 15:46:38 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 15:46:38 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:46:39 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:46:39 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 15:46:39 [root] [INFO] :20: 最大化窗口
+2019-10-21 15:46:39 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:46:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:46:42 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 15:46:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:46:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:46:43 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 15:46:43 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:46:43 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:46:43 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:46:44 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:46:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:46:44 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:46:47 [root] [INFO] :20: 退出浏览器
+2019-10-21 15:54:42 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 15:54:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 15:54:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 15:54:42 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 15:54:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 15:54:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 15:54:42 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 15:54:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:54:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 15:54:42 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 15:54:42 [root] [INFO] :20: 最大化窗口
+2019-10-21 15:54:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:54:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 15:54:45 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 15:54:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:54:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:54:45 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 15:54:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:54:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:54:45 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:54:46 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:54:46 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 15:54:46 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 15:54:49 [root] [INFO] :20: 退出浏览器
+2019-10-21 22:45:46 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 22:45:46 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 22:45:46 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 22:45:46 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 22:45:46 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 22:45:46 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 22:45:46 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 22:45:46 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 22:45:46 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 22:45:46 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 22:45:46 [root] [INFO] :20: 最大化窗口
+2019-10-21 22:45:46 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 22:45:47 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 22:45:48 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 22:45:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 22:45:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 22:45:48 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 22:45:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 22:45:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 22:45:48 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 22:45:49 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 22:45:50 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 22:45:50 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 22:45:52 [root] [INFO] :20: 退出浏览器
+2019-10-21 23:03:54 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 23:03:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 23:03:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 23:03:54 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 23:03:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 23:03:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 23:03:54 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 23:03:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:03:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:03:55 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 23:03:55 [root] [INFO] :20: 最大化窗口
+2019-10-21 23:03:55 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:03:55 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:03:56 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 23:03:56 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:03:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:03:56 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 23:03:56 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:03:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:03:56 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:03:57 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:03:57 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:03:57 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:04:00 [root] [INFO] :20: 退出浏览器
+2019-10-21 23:14:59 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 23:14:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 23:14:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 23:14:59 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 23:14:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 23:14:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 23:14:59 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 23:14:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:14:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:15:00 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 23:15:00 [root] [INFO] :20: 最大化窗口
+2019-10-21 23:15:00 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:15:01 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:15:01 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 23:15:01 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:15:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:15:02 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 23:15:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:15:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:15:02 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:15:03 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:15:03 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:15:03 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:15:05 [root] [INFO] :20: 退出浏览器
+2019-10-21 23:16:15 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 23:16:15 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 23:16:15 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 23:16:15 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 23:16:15 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 23:16:15 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 23:16:15 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 23:16:15 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:16:15 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:16:15 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 23:16:15 [root] [INFO] :20: 最大化窗口
+2019-10-21 23:16:15 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:16:16 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:16:17 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 23:16:17 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:16:17 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:16:18 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 23:16:18 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:16:18 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:16:18 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:16:19 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:16:19 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:16:19 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:16:21 [root] [INFO] :20: 退出浏览器
+2019-10-21 23:21:29 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 23:21:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 23:21:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 23:21:29 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 23:21:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 23:21:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 23:21:29 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 23:21:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:21:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:21:29 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 23:21:29 [root] [INFO] :20: 最大化窗口
+2019-10-21 23:21:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:21:30 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:21:31 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 23:21:31 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:21:31 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:21:31 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 23:21:31 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:21:31 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:21:31 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:21:32 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:21:32 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:21:32 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:21:35 [root] [INFO] :20: 退出浏览器
+2019-10-21 23:22:41 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 23:22:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 23:22:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 23:22:41 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 23:22:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 23:22:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 23:22:41 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 23:22:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:22:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:22:41 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 23:22:41 [root] [INFO] :20: 最大化窗口
+2019-10-21 23:22:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:22:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:22:43 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 23:22:43 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:22:43 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:22:43 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 23:22:43 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:22:43 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:22:43 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:22:44 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:22:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:22:44 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:22:47 [root] [INFO] :20: 退出浏览器
+2019-10-21 23:29:28 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 23:29:28 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 23:29:28 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 23:29:28 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 23:29:28 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 23:29:28 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 23:29:28 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 23:29:28 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:29:28 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:29:28 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 23:29:28 [root] [INFO] :20: 最大化窗口
+2019-10-21 23:29:28 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:29:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:29:30 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 23:29:30 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:29:30 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:29:30 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 23:29:30 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:29:30 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:29:30 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:29:31 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:29:31 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:29:31 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:29:34 [root] [INFO] :20: 退出浏览器
+2019-10-21 23:50:54 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-21 23:50:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-21 23:50:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-21 23:50:54 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-21 23:50:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-21 23:50:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-21 23:50:54 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-21 23:50:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:50:54 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-21 23:50:54 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-21 23:50:54 [root] [INFO] :20: 最大化窗口
+2019-10-21 23:50:54 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:50:56 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-21 23:50:58 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-21 23:50:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:50:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:50:58 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-21 23:50:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:50:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:50:58 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:50:59 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:50:59 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-21 23:51:00 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-21 23:51:02 [root] [INFO] :20: 退出浏览器
+2019-10-22 15:14:40 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-22 15:14:40 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-22 15:14:40 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-22 15:14:40 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-22 15:14:40 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-22 15:14:40 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-22 15:14:40 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-22 15:14:40 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 15:14:40 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 15:14:40 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-22 15:14:40 [root] [INFO] :20: 最大化窗口
+2019-10-22 15:14:40 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 15:14:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 15:14:42 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-22 15:14:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:14:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:14:42 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-22 15:14:42 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:14:42 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:14:42 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 15:14:43 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:14:43 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:14:43 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 15:14:45 [root] [INFO] :20: 退出浏览器
+2019-10-22 15:35:19 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-22 15:35:19 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-22 15:35:19 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-22 15:35:19 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-22 15:35:19 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-22 15:35:19 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-22 15:35:20 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-22 15:35:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 15:35:20 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 15:35:20 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-22 15:35:20 [root] [INFO] :20: 最大化窗口
+2019-10-22 15:35:20 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 15:35:27 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 15:35:27 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-22 15:35:27 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:35:28 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:35:28 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-22 15:35:28 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:35:28 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:35:28 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 15:35:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:35:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:35:29 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 15:35:31 [root] [INFO] :20: 退出浏览器
+2019-10-22 15:54:02 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-22 15:54:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-22 15:54:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-22 15:54:02 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-22 15:54:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-22 15:54:03 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-22 15:54:03 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-22 15:54:03 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 15:54:03 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 15:54:03 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-22 15:54:03 [root] [INFO] :20: 最大化窗口
+2019-10-22 15:54:03 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 15:54:04 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 15:54:05 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-22 15:54:05 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:54:05 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:54:05 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-22 15:54:05 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:54:05 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:54:05 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 15:54:06 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:54:06 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 15:54:06 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 15:54:09 [root] [INFO] :20: 退出浏览器
+2019-10-22 16:32:29 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-22 16:32:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-22 16:32:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-22 16:32:29 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-22 16:32:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-22 16:32:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-22 16:32:29 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-22 16:32:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 16:32:29 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-22 16:32:29 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-22 16:32:29 [root] [INFO] :20: 最大化窗口
+2019-10-22 16:32:29 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 16:32:30 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-22 16:32:31 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-22 16:32:31 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 16:32:31 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 16:32:31 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-22 16:32:31 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 16:32:31 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 16:32:31 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 16:32:32 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 16:32:32 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-22 16:32:32 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-22 16:32:34 [root] [INFO] :20: 退出浏览器
+2019-10-28 17:00:02 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-28 17:00:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-28 17:00:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-28 17:00:02 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-28 17:00:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-28 17:00:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-28 17:00:02 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-28 17:00:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:00:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:00:02 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-28 17:00:02 [root] [INFO] :20: 最大化窗口
+2019-10-28 17:00:03 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:00:04 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:00:04 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-28 17:00:04 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:00:04 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:00:05 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-28 17:00:05 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:00:05 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:00:05 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:00:06 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:00:06 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:00:06 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:00:08 [root] [INFO] :20: 退出浏览器
+2019-10-28 17:06:48 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-28 17:06:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-28 17:06:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-28 17:06:48 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-28 17:06:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-28 17:06:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-28 17:06:48 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-28 17:06:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:06:48 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:06:48 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-28 17:06:48 [root] [INFO] :20: 最大化窗口
+2019-10-28 17:06:48 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:06:49 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:06:51 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-28 17:06:51 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:06:51 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:06:51 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-28 17:06:51 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:06:51 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:06:51 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:06:52 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:06:52 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:06:52 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:06:54 [root] [INFO] :20: 退出浏览器
+2019-10-28 17:09:58 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-28 17:09:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-28 17:09:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-28 17:09:58 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-28 17:09:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-28 17:09:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-28 17:09:58 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-28 17:09:58 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:09:58 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:09:58 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-28 17:09:58 [root] [INFO] :20: 最大化窗口
+2019-10-28 17:10:02 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:10:02 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:10:03 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-28 17:10:03 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:04 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:04 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-28 17:10:04 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:04 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:04 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:10:05 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:05 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:05 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:10:41 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-10-28 17:10:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-10-28 17:10:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-10-28 17:10:41 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-10-28 17:10:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-10-28 17:10:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-10-28 17:10:41 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-10-28 17:10:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:10:41 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-10-28 17:10:41 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-10-28 17:10:41 [root] [INFO] :20: 最大化窗口
+2019-10-28 17:10:41 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:10:43 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]
+2019-10-28 17:10:44 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div[1]/div[2]/div/div/ul/li[4]')
+2019-10-28 17:10:44 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:44 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：测试012
+2019-10-28 17:10:44 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:44 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:44 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:10:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:46 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input
+2019-10-28 17:10:46 [root] [INFO] :20: 元素:('xpath', "//*[@id='main']/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div/ul/li/div/input"),输入文本：
+2019-10-28 17:10:48 [root] [INFO] :20: 退出浏览器
+2019-11-01 17:13:15 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-11-01 17:13:15 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-11-01 17:13:15 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-11-01 17:13:15 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-11-01 17:13:15 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-11-01 17:13:15 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-11-01 17:13:15 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-11-01 17:13:15 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-11-01 17:13:15 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-11-01 17:13:16 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-11-01 17:13:16 [root] [INFO] :20: 最大化窗口
+2019-11-03 21:43:52 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 21:43:52 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 21:44:57 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 21:44:57 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 21:59:43 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 21:59:43 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 22:02:05 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 22:02:05 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 22:05:49 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 22:06:09 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 22:06:53 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 22:06:53 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 22:09:37 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 22:09:37 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 22:20:21 [root] [INFO] :20: 访问网址：https://www.baidu.com
+2019-11-03 22:20:21 [root] [INFO] :20: 在此时进行截图！！
+2019-11-03 22:20:21 [root] [INFO] :20: 已成功生成截图，请确认！

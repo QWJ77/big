@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc9399d3-4383-403c-9724-2d0e8f8813b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/env_constants/constants_uat_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/optometry/sale_management/account_record_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/optometry/sale_management/purchase_order_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/optometry/sale_management/sales_order_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/public_page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/public_page/outpatient_service_public_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html/data/attachments/32bc5af05cbbdefb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html/data/attachments/9d9a736f5852617d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/xml/dc2c2301-ed8e-4f86-8abc-2d37857184a6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/xml/e1953b4b-439f-499e-a407-03414c3d80a2-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-13-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-17-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-20-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-29-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-38-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-44-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-48-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-52-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-53-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-57-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_14-59-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_16-23-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_16-26-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_16-27-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-05-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-08-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-17-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-27-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-33-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-35-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-46-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-53-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_17-59-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_18-26-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_18-34-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-12_18-43-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_09-17-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_09-31-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_09-52-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_10-04-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_10-28-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_10-36-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_10-51-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_10-58-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_13-33-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_13-59-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_14-28-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_14-35-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_15-08-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_15-12-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_15-29-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_15-44-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_16-11-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_16-25-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_16-27-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_16-45-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_16-52-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_16-54-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_17-04-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_17-10-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_17-41-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/2019-11-13_17-42-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/optometry/sale_management/test_sale_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/basePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/basePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/logging.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/logging.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env_constants/constants_yot_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/env_constants/constants_yot_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/env_switch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/optometry/sale_management/optometre_public_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/public_page/optometre_public_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/optometry/sale_management/optometre_sales_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/optometry/sale_management/optometre_sales_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/attachments/42b4a89962ed95d8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reports/xml/65bc1340-5949-413f-b3a9-1ad7cc2c0d74-attachment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/attachments/63a38bfc02ac9be8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/widgets/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/xml/6704578b-5f9d-4eb2-a9d6-f662e69ef122-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/xml/b1fc5e6e-bb84-4558-8f75-3823049e0910-attachment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html/data/attachments/dc20dc70b5165eb6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/runCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/optometry/sale_management/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/optometry/sale_management/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/optometry/sale_management/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/optometry/sale_management/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/optometry/sale_management/test_optometre_sales.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/optometry/sale_management/test_optometre_sales.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/uitest$pytest_in_test_optometre_sales_py.coverage" NAME="pytest in test_optometre_sales.py Coverage Results" MODIFIED="1573623659374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/optometry/sale_management" />
+    <SUITE FILE_PATH="coverage/uitest$outpatient_service_public_page.coverage" NAME="outpatient_service_public_page Coverage Results" MODIFIED="1574060740934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/public_page" />
+    <SUITE FILE_PATH="coverage/uitest$runCase.coverage" NAME="runCase Coverage Results" MODIFIED="1573637802328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uitest$sales_order_page.coverage" NAME="sales_order_page Coverage Results" MODIFIED="1573636264241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/optometry/sale_management" />
+    <SUITE FILE_PATH="coverage/uitest$basePage.coverage" NAME="basePage Coverage Results" MODIFIED="1572861327427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/uitest$optometre_sales_page.coverage" NAME="optometre_sales_page Coverage Results" MODIFIED="1573625675141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/optometry/sale_management" />
+    <SUITE FILE_PATH="coverage/uitest$pytest_for_test_optometre_sales_TestPage_test_1.coverage" NAME="pytest for test_optometre_sales.TestPage.test_1 Coverage Results" MODIFIED="1571296831473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/optometry/sale_management" />
+    <SUITE FILE_PATH="coverage/uitest$pytest_for_test_optometre_sales_TestPage_test_bill_amount_wrong.coverage" NAME="pytest for test_optometre_sales.TestPage.test_bill_amount_wrong Coverage Results" MODIFIED="1573539739844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/optometry/sale_management" />
+    <SUITE FILE_PATH="coverage/uitest$optometre_public_page.coverage" NAME="optometre_public_page Coverage Results" MODIFIED="1573055810511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/optometry/sale_management" />
+    <SUITE FILE_PATH="coverage/uitest$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1572919815129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/uitest$env_switch.coverage" NAME="env_switch Coverage Results" MODIFIED="1572919954253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uitest$comm_func.coverage" NAME="comm_func Coverage Results" MODIFIED="1571388408871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/uitest$pytest_for_test_optometre_sales_TestPage.coverage" NAME="pytest for test_optometre_sales.TestPage Coverage Results" MODIFIED="1573529695284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/optometry/sale_management" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/optometry/sale_management/test_optometre_sales.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="989">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#46#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/optometry/sale_management/test_sale_order.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#46#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/public_page/optometre_public_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#125#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/public_page/outpatient_service_public_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+              <folding>
+                <element signature="e#126#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/optometry/sale_management/optometre_sales_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/info.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="3128">
+              <caret line="136" column="65" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/optometry/sale_management/account_record_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/optometry/sale_management/purchase_order_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/login_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reports/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>actionTest</find>
+      <find>\</find>
+      <find>crm.</find>
+      <find>crm</find>
+      <find>project</find>
+      <find>get_screen</find>
+      <find>han</find>
+      <find>getLogger</find>
+      <find>delete_expire_screen</find>
+      <find>ERROR</find>
+      <find>read</find>
+      <find>execute_script</find>
+      <find>choose</find>
+      <find>link</find>
+      <find>link_text</find>
+      <find>/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/butto</find>
+      <find>/html/body/div[4]/div/div[2]/div/div[1]/div/div/div[2]/button</find>
+      <find>//*[@id=&quot;main&quot;]/div/div[2]/div[2]/div/div/div[5]/div[3]/button[2]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/mysqlUtil.py" />
+        <option value="$PROJECT_DIR$/common/common.py" />
+        <option value="$PROJECT_DIR$/test_demo.py" />
+        <option value="$PROJECT_DIR$/common/SceneAction.py" />
+        <option value="$PROJECT_DIR$/config/testcase.yaml" />
+        <option value="$PROJECT_DIR$/runcase.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/report/html/index.html" />
+        <option value="$PROJECT_DIR$/tools/allure-2.7.0/plugins/screen-diff-plugin/allure-plugin.yml" />
+        <option value="$PROJECT_DIR$/tools/allure-2.7.0/plugins/behaviors-plugin/allure-plugin.yml" />
+        <option value="$PROJECT_DIR$/tools/allure-2.7.0/plugins/packages-plugin/allure-plugin.yml" />
+        <option value="$PROJECT_DIR$/tools/allure-2.7.0/bin/reports/html/index.html" />
+        <option value="$PROJECT_DIR$/tools/allure-2.7.0/bin/reports/html/styles.css" />
+        <option value="$PROJECT_DIR$/common/readYaml.py" />
+        <option value="$PROJECT_DIR$/env_settings/__init__.py" />
+        <option value="$PROJECT_DIR$/env_constants/__init__.py" />
+        <option value="$PROJECT_DIR$/tools/db_tools.py" />
+        <option value="$PROJECT_DIR$/common/comm_func.py" />
+        <option value="$PROJECT_DIR$/config/project.yaml" />
+        <option value="$PROJECT_DIR$/env_constants/constants_27_test.py" />
+        <option value="$PROJECT_DIR$/env_constants/constants_t27_test.py" />
+        <option value="$PROJECT_DIR$/pages/login_page.py" />
+        <option value="$PROJECT_DIR$/reports/html/index.html" />
+        <option value="$PROJECT_DIR$/common/logger.py" />
+        <option value="$PROJECT_DIR$/env_constants/constants_yot_test.py" />
+        <option value="$PROJECT_DIR$/runCase.py" />
+        <option value="$PROJECT_DIR$/config/logging.yaml" />
+        <option value="$PROJECT_DIR$/pages/optometry/sale_management/optometre_public_page.py" />
+        <option value="$PROJECT_DIR$/pages/optometry/sale_management/optometre_sales_page.py" />
+        <option value="$PROJECT_DIR$/pages/optometry/sale_management/account_record_page.py" />
+        <option value="$PROJECT_DIR$/pages/optometry/sale_management/purchase_order.py" />
+        <option value="$PROJECT_DIR$/pages/optometry/sale_management/purchase_order_page.py" />
+        <option value="$PROJECT_DIR$/pages/optometry/sale_management/sales_order_page.py" />
+        <option value="$PROJECT_DIR$/env_switch.py" />
+        <option value="$PROJECT_DIR$/env_constants/constants_uat_test.py" />
+        <option value="$PROJECT_DIR$/common/basePage.py" />
+        <option value="$PROJECT_DIR$/testcase/optometry/sale_management/test_sale_order.py" />
+        <option value="$PROJECT_DIR$/testcase/optometry/sale_management/test_optometre_sales.py" />
+        <option value="$PROJECT_DIR$/pages/public_page/outpatient_service_public_page.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1383" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="env_constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="optometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="optometry" type="462c0819:PsiDirectoryNode" />
+              <item name="sale_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="public_page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="optometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="optometry" type="462c0819:PsiDirectoryNode" />
+              <item name="sale_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GT-UItest\UIAuto_Base\uiTest-qwj\uitest\tools" />
+      <recent name="E:\GT-UItest\UIAuto_Base\uiTest-qwj\uitest" />
+      <recent name="E:\GT-UI\uitest" />
+      <recent name="E:\GT-UI\uitest\logs" />
+      <recent name="E:\GT-UI\uitest\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GT-UItest\UIAuto_Base\uiTest-qwj\uitest\pages\public_page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.outpatient_service_public_page">
+    <configuration name="optometre_sales_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages/optometry/sale_management" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/optometry/sale_management/optometre_sales_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="outpatient_service_public_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages/public_page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/public_page/outpatient_service_public_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sales_order_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages/optometry/sale_management" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/optometry/sale_management/sales_order_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_optometre_sales.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="uitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/optometry/sale_management" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/optometry/sale_management/test_optometre_sales.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.outpatient_service_public_page" />
+        <item itemvalue="Python.runCase" />
+        <item itemvalue="Python.sales_order_page" />
+        <item itemvalue="Python.optometre_sales_page" />
+        <item itemvalue="Python tests.pytest in test_optometre_sales.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc9399d3-4383-403c-9724-2d0e8f8813b4" name="Default Changelist" comment="" />
+      <created>1569466499365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569466499365</updated>
+      <workItem from="1569466500670" duration="7566000" />
+      <workItem from="1569830751532" duration="1629000" />
+      <workItem from="1570109212990" duration="786000" />
+      <workItem from="1570156768846" duration="612000" />
+      <workItem from="1570251832777" duration="1813000" />
+      <workItem from="1570258753907" duration="1621000" />
+      <workItem from="1570585497379" duration="86000" />
+      <workItem from="1571283065907" duration="10154000" />
+      <workItem from="1571384338772" duration="5283000" />
+      <workItem from="1571637308653" duration="1637000" />
+      <workItem from="1571640698811" duration="4285000" />
+      <workItem from="1571668290332" duration="2809000" />
+      <workItem from="1571671334090" duration="1741000" />
+      <workItem from="1571728367583" duration="6512000" />
+      <workItem from="1571794164880" duration="129000" />
+      <workItem from="1572254047805" duration="1218000" />
+      <workItem from="1572255505381" duration="691000" />
+      <workItem from="1572599577040" duration="3179000" />
+      <workItem from="1572788541340" duration="5241000" />
+      <workItem from="1572834053410" duration="670000" />
+      <workItem from="1572834874991" duration="106000" />
+      <workItem from="1572851650449" duration="545000" />
+      <workItem from="1572852215664" duration="1024000" />
+      <workItem from="1572858293952" duration="8225000" />
+      <workItem from="1573002717665" duration="338000" />
+      <workItem from="1573003149290" duration="80000" />
+      <workItem from="1573003405618" duration="728000" />
+      <workItem from="1573006833577" duration="787000" />
+      <workItem from="1573007644265" duration="39000" />
+      <workItem from="1573020645470" duration="25000" />
+      <workItem from="1573055185699" duration="1196000" />
+      <workItem from="1573056398329" duration="391000" />
+      <workItem from="1573089589835" duration="2157000" />
+      <workItem from="1573091775090" duration="1232000" />
+      <workItem from="1573093559536" duration="212000" />
+      <workItem from="1573126243149" duration="2772000" />
+      <workItem from="1573131091436" duration="3085000" />
+      <workItem from="1573134218400" duration="568000" />
+      <workItem from="1573175569298" duration="400000" />
+      <workItem from="1573176041438" duration="227000" />
+      <workItem from="1573176296709" duration="343000" />
+      <workItem from="1573176707538" duration="1445000" />
+      <workItem from="1573181044113" duration="1999000" />
+      <workItem from="1573285517580" duration="28000" />
+      <workItem from="1573521876935" duration="19000" />
+      <workItem from="1573528068860" duration="89000" />
+      <workItem from="1573528390384" duration="1834000" />
+      <workItem from="1573530273395" duration="48149000" />
+      <workItem from="1573712786225" duration="1261000" />
+      <workItem from="1573783785568" duration="3869000" />
+      <workItem from="1574059513614" duration="2285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 14h 53m 59s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 14h 54m 45s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 14h 55m 26s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 14h 55m 53s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 15h 08m 44s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 18h 22m 10s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 18h 23m 21s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.12 at 18h 36m 00s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.13 at 10h 45m 47s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_optometre_sales_py - 2019.11.13 at 13h 42m 00s.xml">
+      <configuration name="pytest in test_optometre_sales.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143120000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1956346" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24511546" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1793961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4539007" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23039612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24511546" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43872115" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4539007" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>os.path.abspath(os.path.dirname(os.path.dirname(__file__)))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.abspath(os.path.dirname(__file__))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.dirname(os.path.realpath(__file__))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.dirname()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.realpath(__file__)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.abspath('.')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.abspath(os.getcwd())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.abspath()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.curdir</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-08_09-38-27.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-08_09-24-26.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-47-27.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-39-00.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-33-17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_20-59-24.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/common/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/html/export/mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/xml/environment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-96805479/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="896" column="6" selection-start-line="896" selection-start-column="6" selection-end-line="896" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="1618" column="8" selection-start-line="1618" selection-start-column="8" selection-end-line="1618" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_19-41-51.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-04_17-27-55.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-04_15-51-18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-30-12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/errors.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_20-01-53.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-41-14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mysqlUtil.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/db_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env_constants/constants_t27_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/readYaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env_switch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env_constants/constants_yot_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23299">
+          <caret line="1029" column="46" selection-start-line="1029" selection-start-column="46" selection-end-line="1029" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/optometry/sale_management/sales_order_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_20-09-58.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env_constants/constants_uat_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-05_10-15-10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-12-21.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-20-20.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/2019-11-07_21-16-29.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/basePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="343" column="29" lean-forward="true" selection-start-line="343" selection-start-column="29" selection-end-line="343" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/comm_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="e#13#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#14#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/logging.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/project.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/testcase.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/optometry/sale_management/test_optometre_sales.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/optometry/sale_management/test_sale_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/info.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="683" selection-start-line="683" selection-end-line="683" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="3128">
+          <caret line="136" column="65" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/optometry/sale_management/account_record_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/optometry/sale_management/purchase_order_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/optometry/sale_management/optometre_sales_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/public_page/outpatient_service_public_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding>
+            <element signature="e#126#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/public_page/optometre_public_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#125#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

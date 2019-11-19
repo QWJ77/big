@@ -1,0 +1,24 @@
+2019-11-03 22:38:45 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-11-03 22:38:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-11-03 22:38:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-11-03 22:38:45 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-11-03 22:38:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-11-03 22:38:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-11-03 22:38:45 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-11-03 22:38:45 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-11-03 22:38:45 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-11-03 22:38:45 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-11-03 22:38:45 [root] [INFO] :20: 最大化窗口
+2019-11-03 22:38:48 [root] [INFO] :20: 退出浏览器
+2019-11-03 22:44:09 [root] [INFO] :20: 访问网址：https://a.best-seeing.cn/login/?tenant=53319797731233991
+2019-11-03 22:44:09 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->account
+2019-11-03 22:44:09 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->account
+2019-11-03 22:44:09 [root] [INFO] :20: 元素:('id', 'account'),输入文本：sqm
+2019-11-03 22:44:09 [root] [INFO] :20: 正在定位元素信息：定位方式开始->id, value值->password
+2019-11-03 22:44:10 [root] [INFO] :20: 正在定位元素信息：定位方式结束->id, value值->password
+2019-11-03 22:44:10 [root] [INFO] :20: 元素:('id', 'password'),输入文本：aaaaaaa1
+2019-11-03 22:44:10 [root] [INFO] :20: 正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-11-03 22:44:10 [root] [INFO] :20: 正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+2019-11-03 22:44:10 [root] [INFO] :20: 点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+2019-11-03 22:44:10 [root] [INFO] :20: 最大化窗口
+2019-11-03 22:44:12 [root] [INFO] :20: 退出浏览器

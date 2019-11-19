@@ -1,0 +1,31 @@
+[ {
+  "uid" : "e47b1beb935e86ea",
+  "name" : "TestOptometre.test_draw_a_bill",
+  "time" : {
+    "start" : 1573637836544,
+    "stop" : 1573637864047,
+    "duration" : 27503
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb4eba93c7c3d7b7",
+  "name" : "TestOptometre.test_add_optometry_record",
+  "time" : {
+    "start" : 1573637802843,
+    "stop" : 1573637833428,
+    "duration" : 30585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b66747525507073",
+  "name" : "TestOptometre.test_delete_optometry_record",
+  "time" : {
+    "start" : 1573637833428,
+    "stop" : 1573637836543,
+    "duration" : 3115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

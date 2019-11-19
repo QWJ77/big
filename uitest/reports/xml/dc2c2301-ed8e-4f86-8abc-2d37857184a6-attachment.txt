@@ -1,0 +1,6 @@
+basePage.py                 66 INFO     正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div[2]/table/tbody/tr[1]/td[5]/span/a[2]
+basePage.py                 68 INFO     正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div[2]/table/tbody/tr[1]/td[5]/span/a[2]
+basePage.py                106 INFO     点击元素:('xpath', '//*[@id="main"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div[2]/table/tbody/tr[1]/td[5]/span/a[2]')
+basePage.py                 66 INFO     正在定位元素信息：定位方式开始->xpath, value值->/html/body/div[5]/div/div/div/div[2]/div/div/div[2]/button[2]
+basePage.py                 68 INFO     正在定位元素信息：定位方式结束->xpath, value值->/html/body/div[5]/div/div/div/div[2]/div/div/div[2]/button[2]
+basePage.py                106 INFO     点击元素:('xpath', '/html/body/div[5]/div/div/div/div[2]/div/div/div[2]/button[2]')

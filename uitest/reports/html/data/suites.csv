@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"failed","testcase.optometry.sale_management.test_optometre_sales.TestOptometre.test_draw_a_bill","27503",""
+"passed","testcase.optometry.sale_management.test_optometre_sales.TestOptometre.test_add_optometry_record","30585",""
+"passed","testcase.optometry.sale_management.test_optometre_sales.TestOptometre.test_delete_optometry_record","3115",""

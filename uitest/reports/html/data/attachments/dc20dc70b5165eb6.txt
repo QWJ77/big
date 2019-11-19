@@ -1,0 +1,11 @@
+basePage.py                 42 INFO     访问网址：https://a.best-seeing.cn/erp/?tenant=53319797731233991
+basePage.py                 66 INFO     正在定位元素信息：定位方式开始->id, value值->account
+basePage.py                 68 INFO     正在定位元素信息：定位方式结束->id, value值->account
+basePage.py                 95 INFO     元素:('id', 'account'),输入文本：sqm
+basePage.py                 66 INFO     正在定位元素信息：定位方式开始->id, value值->password
+basePage.py                 68 INFO     正在定位元素信息：定位方式结束->id, value值->password
+basePage.py                 95 INFO     元素:('id', 'password'),输入文本：aaaaaaa1
+basePage.py                 66 INFO     正在定位元素信息：定位方式开始->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+basePage.py                 68 INFO     正在定位元素信息：定位方式结束->xpath, value值->//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button
+basePage.py                106 INFO     点击元素:('xpath', '//*[@id="main"]/div/div/div[2]/div/div/form/div[2]/div/div/button')
+basePage.py                351 INFO     最大化窗口
